@@ -1,0 +1,5 @@
+F:\project\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.exe.config
+F:\project\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.exe
+F:\project\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.pdb
+F:\project\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.exe
+F:\project\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.pdb

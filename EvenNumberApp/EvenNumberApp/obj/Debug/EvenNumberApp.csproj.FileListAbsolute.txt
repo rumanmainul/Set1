@@ -1,0 +1,6 @@
+F:\project\EvenNumberApp\EvenNumberApp\bin\Debug\EvenNumberApp.exe.config
+F:\project\EvenNumberApp\EvenNumberApp\bin\Debug\EvenNumberApp.exe
+F:\project\EvenNumberApp\EvenNumberApp\bin\Debug\EvenNumberApp.pdb
+F:\project\EvenNumberApp\EvenNumberApp\obj\Debug\EvenNumberApp.csprojResolveAssemblyReference.cache
+F:\project\EvenNumberApp\EvenNumberApp\obj\Debug\EvenNumberApp.exe
+F:\project\EvenNumberApp\EvenNumberApp\obj\Debug\EvenNumberApp.pdb

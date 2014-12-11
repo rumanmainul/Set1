@@ -1,0 +1,5 @@
+F:\project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe.config
+F:\project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe
+F:\project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.pdb
+F:\project\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.exe
+F:\project\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.pdb

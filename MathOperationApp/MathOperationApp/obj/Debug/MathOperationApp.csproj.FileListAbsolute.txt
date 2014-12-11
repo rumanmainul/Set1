@@ -1,0 +1,6 @@
+F:\project\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe.config
+F:\project\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe
+F:\project\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.pdb
+F:\project\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.exe
+F:\project\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.pdb
+F:\project\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.csprojResolveAssemblyReference.cache

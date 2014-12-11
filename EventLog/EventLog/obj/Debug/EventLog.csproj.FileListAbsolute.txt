@@ -1,0 +1,6 @@
+F:\project\EventLog\EventLog\bin\Debug\EventLog.exe.config
+F:\project\EventLog\EventLog\bin\Debug\EventLog.exe
+F:\project\EventLog\EventLog\bin\Debug\EventLog.pdb
+F:\project\EventLog\EventLog\obj\Debug\EventLog.csprojResolveAssemblyReference.cache
+F:\project\EventLog\EventLog\obj\Debug\EventLog.exe
+F:\project\EventLog\EventLog\obj\Debug\EventLog.pdb

@@ -1,0 +1,6 @@
+F:\project\RegistryApp\RegistryApp\bin\Debug\RegistryApp.exe.config
+F:\project\RegistryApp\RegistryApp\obj\Debug\RegistryApp.csprojResolveAssemblyReference.cache
+F:\project\RegistryApp\RegistryApp\bin\Debug\RegistryApp.exe
+F:\project\RegistryApp\RegistryApp\bin\Debug\RegistryApp.pdb
+F:\project\RegistryApp\RegistryApp\obj\Debug\RegistryApp.exe
+F:\project\RegistryApp\RegistryApp\obj\Debug\RegistryApp.pdb
